@@ -1,0 +1,21 @@
+{
+  "name": "frontend-practice",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git@git.example.com:example.git"
+  },
+  "main": "gulpfile.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^3.2.2",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-traceur": "^0.17.2"
+  }
+}

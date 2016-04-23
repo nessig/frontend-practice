@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git@git.example.com:example.git"
+    "url": "https://github.com/nessig/frontend-practice.git"
   },
   "main": "gulpfile.js",
   "scripts": {
